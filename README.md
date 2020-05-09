@@ -1,10 +1,6 @@
 # docker-embedded-system-tools
 
 This is a small repo with instructions and scripts to run [Cheddar, an open-source real-time scheduling tool/simulator,](http://beru.univ-brest.fr/~singhoff/cheddar/) in Docker environment.
-In the future, maybe in the next few weeks, I will add:
-- Toolchain RISC-V (GCC 8.3 series) 
-- Toolchain MIPS (GCC 4.6 series)
-
 
 ## Installation
 Install docker in your system.
@@ -12,7 +8,7 @@ Install docker in your system.
 ## Usage
 Execute in your terminal:
 ```bash
-bash run.sh
+bash cheddar-in-doccker.sh
 ```
 
 ## Contributing
