@@ -1,4 +1,4 @@
-# docker-embedded-system-tools
+# Cheddar in Docker
 
 This is a small repo with instructions and scripts to run [Cheddar, an open-source real-time scheduling tool/simulator,](http://beru.univ-brest.fr/~singhoff/cheddar/) in Docker environment.
 
