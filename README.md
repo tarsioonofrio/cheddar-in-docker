@@ -8,7 +8,7 @@ Install docker in your system.
 ## Usage
 Execute in your terminal:
 ```bash
-bash cheddar-in-doccker.sh
+bash cheddar-in-docker.sh
 ```
 
 ## Contributing
